@@ -1,5 +1,5 @@
-# NvidiaTweaks
-Repository for Nvidia Tweaks.
+# Nvidia Repository
+This repository is only for Nvidia Tweaks.
 
 # Releases
 **NvContainer Toggler**
