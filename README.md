@@ -1,5 +1,3 @@
-# NVIDIA Repository
-My list of Nvidia Tweaks right below.
 
 # ✰ NvContainer Toggler
 
