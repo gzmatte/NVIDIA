@@ -3,5 +3,5 @@
 
 Add's a toggler to NvContainer Service in the Desktop menu.
 
-*Example*
+*Old Example*
 https://github.com/gzmatte/NvidiaTweaks/blob/main/NvContainer.png
