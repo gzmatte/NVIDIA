@@ -1,5 +1,4 @@
-
-# NvContainer Toggler
+[*NvContainer Toggler*](https://github.com/gzmatte/NvidiaTweaks/releases/download/NvContainer/NvContainer.bat)
 
 Add's a toggler to Nvidia Container Service in the Desktop menu.
 
