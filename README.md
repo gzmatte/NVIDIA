@@ -1,7 +1,6 @@
 
-# ✰ NvContainer Toggler
+# NvContainer Toggler
 
-Add's a toggler to NvContainer Service in the Desktop menu.
+Add's a toggler to Nvidia Container Service in the Desktop menu.
 
-*Old Example*
-https://github.com/gzmatte/NvidiaTweaks/blob/main/NvContainer.png
+![test](https://github.com/gzmatte/NvidiaTweaks/assets/117684932/17595d45-d39c-431a-b214-b6588442de19)
