@@ -1,3 +1,5 @@
+![NVIDIATITLE](https://github.com/gzmatte/NVIDIA/assets/117684932/7162d543-544c-4aa5-96fd-99b533cc1ec0)
+
 # ★ [Nvidia Panel Toggler](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvContainer.bat)
 **Adds an ON/OFF for Nvidia Container Service in the desktop menu.**
 
