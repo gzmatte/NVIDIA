@@ -3,6 +3,6 @@
 
 **Adds a Toggler for Nvidia Container Service in the desktop menu.**
 
-#### ★ [Download](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvContainer.bat)
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvContainer.bat)
 
 ![example](https://github.com/gzmatte/NvidiaTweaks/assets/117684932/17595d45-d39c-431a-b214-b6588442de19)
