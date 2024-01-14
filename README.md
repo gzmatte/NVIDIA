@@ -13,6 +13,6 @@
 
 `Includes a nip for 457.30 and lower.`      `Includes a nip for new drivers & DCH.`
 
-[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NIPS.zip)
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/NVIDIA/releases/download/NvProfile/gzmatte-NIP.zip)
 
-![example](-link)
+![example]()
