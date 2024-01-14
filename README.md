@@ -9,10 +9,9 @@
 -----
 
 **Nvidia Inspector Profile for maximum performance.**
-Includes a nip for 457.30 and lower.
-Includes a nip for new drivers & DCH.
-
-(No AntiAliasing, No PowerSavings, No Anisotropic Filterings, 0 Input-lag).
+`Includes a nip for 457.30 and lower.`
+`Includes a nip for new drivers & DCH.`
+`(No AntiAliasing, No PowerSavings, No Anisotropic Filterings, 0 Input-lag).`
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NIPS.zip)
 
