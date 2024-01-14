@@ -10,6 +10,7 @@
 ![NVIDIAT](https://github.com/gzmatte/NVIDIA/assets/117684932/9f3d8ae3-182d-4c24-ba64-1fbcb163ab30)
 -----------------
 **A Extreme Nvidia Inspector Profile for maximum frames and lower input-lag.**
+
 `Includes a nip for 457.30 and lower.`      `Includes a nip for new drivers & DCH.`
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NIPS.zip)
