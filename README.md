@@ -15,4 +15,4 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/NVIDIA/releases/download/NvProfile/gzmatte-NIP.zip)
 
-![Screenshot](https://github.com/gzmatte/NVIDIA/assets/117684932/404dc99b-5bcd-40be-ad04-db3af77b612c)
+![Screenshot_4](https://github.com/gzmatte/NVIDIA/assets/117684932/e5f11bb3-fa8e-489a-95d1-5bab4f859cd2)
