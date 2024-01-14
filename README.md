@@ -9,6 +9,7 @@
 -----
 
 **Nvidia Inspector Profile for MAXIMUM performance for Old & New drivers.**
+
 (0 AntiAliasing, 0 PowerSaving, 0 Bloatware, 0 Anisotropic Filterings, 0 Input-lag).
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NIPS.zip)
