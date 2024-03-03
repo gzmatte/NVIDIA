@@ -13,8 +13,8 @@ This won't work if u have UAC ON, use this batch instead.
 -----------------
 **A Extreme Customized _Nvidia Inspector Profile_ for maximum frames and lower input-lag.**
 
-(For Extra Performance, Enable RESIZABLE-BAR to any game with this [GUIDE](https://www.youtube.com/watch?v=1zYjoLbrDF4))
-
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/NVIDIA/releases/download/NvProfile/gzmatte-NIP.zip)
+
+(For Extra Performance, Enable RESIZABLE-BAR to any game with this [GUIDE](https://www.youtube.com/watch?v=1zYjoLbrDF4))
 
 ![Screenshot_5](https://github.com/gzmatte/NVIDIA/assets/117684932/569555c9-0a0d-4cc9-a871-42e1df798c7e)
