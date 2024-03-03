@@ -4,7 +4,7 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/NVIDIA/releases/download/NvProfile/gzmatte-NIP.zip)
 
-(For Extra Performance, Enable RESIZABLE-BAR to any game with this [GUIDE](https://www.youtube.com/watch?v=1zYjoLbrDF4))
+(For Extra Performance, Enable RESIZABLE-BAR to any game with this [GUIDE](https://youtu.be/wPhU0avLJmk?si=34g-B3KmzBiR_ScZ&t=186) and this [GUIDE](https://www.youtube.com/watch?v=1zYjoLbrDF4))
 
 ![Screenshot_5](https://github.com/gzmatte/NVIDIA/assets/117684932/569555c9-0a0d-4cc9-a871-42e1df798c7e)
 
