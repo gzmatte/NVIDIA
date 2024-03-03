@@ -18,6 +18,4 @@
 
 ![example](https://github.com/gzmatte/NvidiaTweaks/assets/117684932/17595d45-d39c-431a-b214-b6588442de19)
 
-NOT WORKING? its because u have UAC or you dont have enough permissions in your own computer (pathetic).
-
-Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
+NOT WORKING? Disable UAC or Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
