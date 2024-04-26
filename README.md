@@ -18,8 +18,9 @@
 
 NOT WORKING? Disable UAC or Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
 
-
-[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvContainer.bat)
+-----
+![NVIDIAT](https://github.com/gzmatte/NVIDIA/assets/117684932/9f3d8ae3-182d-4c24-ba64-1fbcb163ab30)
+-----------------
 
 For Extra Performance, Enable RESIZABLE-BAR to any game with this [GUIDE](https://www.youtube.com/watch?v=1zYjoLbrDF4)
 
