@@ -1,6 +1,6 @@
 ![NVIDIAT](https://github.com/gzmatte/NVIDIA/assets/117684932/9f3d8ae3-182d-4c24-ba64-1fbcb163ab30)
 -----------------
-**A Extreme Customized _Nvidia Inspector Profile_ for maximum frames and lower input-lag.**
+**A Fully Customized _Nvidia Inspector Profile_ focused in Performance and lowest latency.**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/NVIDIA/releases/download/NvProfile/gzmatte-NIP.zip)
 
@@ -16,7 +16,7 @@
 
 ![example](https://github.com/gzmatte/NvidiaTweaks/assets/117684932/17595d45-d39c-431a-b214-b6588442de19)
 
-NOT WORKING? Disable UAC or Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
+NOT WORKING? u dont have permissions in your own computer, pathetic. Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
 
 -----
 ![NVIDIAT](https://github.com/gzmatte/NVIDIA/assets/117684932/9f3d8ae3-182d-4c24-ba64-1fbcb163ab30)
