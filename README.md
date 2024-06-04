@@ -24,4 +24,4 @@ Not Working? Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvCo
 
 For Extra Performance, Enable RESIZABLE-BAR to any game with this [GUIDE](https://www.youtube.com/watch?v=1zYjoLbrDF4)
 
-U don't have resizable-bar on your system? [MOD IT](https://github.com/xCuri0/ReBarUEFI)
+U don't have resizable-bar on your BIOS/GPU? [MOD IT](https://github.com/xCuri0/ReBarUEFI)
