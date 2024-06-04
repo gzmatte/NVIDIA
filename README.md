@@ -6,6 +6,8 @@
 
 ![Screenshot_5](https://github.com/gzmatte/NVIDIA/assets/117684932/569555c9-0a0d-4cc9-a871-42e1df798c7e)
 
+Remember to disable Silk Smothness and Threaded Optimization.
+
 -----
 ![NVIDIAT](https://github.com/gzmatte/NVIDIA/assets/117684932/9f3d8ae3-182d-4c24-ba64-1fbcb163ab30)
 -----------------
