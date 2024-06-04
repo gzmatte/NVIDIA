@@ -16,7 +16,7 @@
 
 ![example](https://github.com/gzmatte/NvidiaTweaks/assets/117684932/17595d45-d39c-431a-b214-b6588442de19)
 
-NOT WORKING? u dont have permissions in your own computer, pathetic. Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
+Not Working? Use [this](https://github.com/gzmatte/Nvidia/releases/download/NvContainer/NvPanel.bat) instead.
 
 -----
 ![NVIDIAT](https://github.com/gzmatte/NVIDIA/assets/117684932/9f3d8ae3-182d-4c24-ba64-1fbcb163ab30)
